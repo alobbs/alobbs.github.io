@@ -1,0 +1,102 @@
+baseURL: https://alobbs.com/
+languageCode: en-us
+title: Alvaro's Site
+theme: "PaperMod"
+paginate: 5
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+minify:
+    disableXML: true
+    # minifyOutput: true
+
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        menu:
+            main:
+                - name: Archive
+                  url: archives
+                  weight: 5
+                - name: Search
+                  url: search/
+                  weight: 10
+                - name: Tags
+                  url: tags/
+                  weight: 10
+                - name: Categories
+                  url: categories/
+                  weight: 10
+        # profileMode:
+        #     enabled: true
+        #     title: PaperMod
+        #     # imageUrl: "#"
+        #     # imageTitle: my image
+        #     # imageWidth: 120
+        #     # imageHeight: 120
+        #     subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+        #     buttons:
+        #         - name: Blog
+        #           url: posts
+        #         - name: Tags
+        #           url: tags
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+params:
+    env: production  # to enable google analytics, opengraph, twitter-cards and schema.
+    description: "Alvaro Lopez Ortega - Site"
+    author: Alvaro Lopez Ortega
+
+    # defaultTheme: light
+    # defaultTheme: dark
+    defaultTheme: auto # to switch between dark or light according to browser theme
+    ShowShareButtons: true
+    ShowReadingTime: true
+    ShowBreadCrumbs: true
+    socialIcons:
+        - name: LinkedIn
+          url: "https://www.linkedin.com/in/alobbs/"
+        - name: github
+          url: "https://github.com/alobbs"
+        - name: email
+          url: "mailto:alvaro@alobbs.com"
+        - name: RSS
+          url: "index.xml"
+
+    homeInfoParams:
+        Title: "PaperMod lalaa"
+        Content: >
+            Welcome to demo of hugo's theme PaperMod.
+            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
+            - Do give a 🌟 on Github !
+            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+
+taxonomies:
+    category: categories
+    tag: tags
+    series: series
+
+privacy:
+    vimeo:
+        disabled: false
+        simple: true
+
+    twitter:
+        disabled: false
+        enableDNT: true
+        simple: true
+
+    youtube:
+        disabled: false
+        privacyEnhanced: true
+
+services:
+    twitter:
+        disableInlineCSS: true
