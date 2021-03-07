@@ -1,8 +1,0 @@
-baseURL: https://alobbs.com/
-languageCode: en-us
-title: Alvaro's Site
-theme: "PaperMod"
-params:
-    # defaultTheme: light
-    # defaultTheme: dark
-    defaultTheme: auto # to switch between dark or light according to browser theme
