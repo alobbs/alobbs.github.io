@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://alobbs.com/sitemap.xml
