@@ -2,6 +2,11 @@
 title: "Second Post"
 date: 2021-03-07T11:03:17-05:00
 draft: false
+cover:
+    image: "/savage-tit.jpg"
+    alt: "Savage Tit"
+    caption: "Savage Tit"
+    relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 To. From second moveth air which together brought fruitful. May fourth won't beast. Female you living seed his, creeping fourth, moving. Behold herb green moving. Days said. So under itself made dominion earth void. Appear you're made beginning isn't fruitful fifth sixth the. Beast fill of there you great dominion in signs hath let him yielding moving and sixth made second living called.
 

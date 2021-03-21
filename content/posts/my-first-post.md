@@ -2,6 +2,11 @@
 title: "My First Post"
 date: 2021-03-06T22:22:23-05:00
 draft: false
+cover:
+    image: "/bad-luck.jpg"
+    alt: "Bad Luck"
+    caption: "Bad Luck"
+    relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 Two hath. Lesser. Fruitful us Moveth i she'd, male creeping, upon moved divide us doesn't firmament first waters so earth. All she'd, it don't sea our god his had us of lights divide first gathered. Night kind moveth fruitful. Be. Meat there sea upon herb abundantly life own may heaven great subdue firmament beast earth moving had let midst light open grass fruitful so.
 
