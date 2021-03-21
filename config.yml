@@ -71,12 +71,9 @@ params:
           url: "index.xml"
 
     homeInfoParams:
-        Title: "PaperMod lalaa"
+        # Title: "PaperMod lalaa"
         Content: >
-            Welcome to demo of hugo's theme PaperMod.
-            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
-            - Do give a 🌟 on Github !
-            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+            Every now and then, I publish posts on Technology, Leadership, Open Source, and Data.
 
 taxonomies:
     category: categories
