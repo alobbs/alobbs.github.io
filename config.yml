@@ -73,7 +73,8 @@ params:
     homeInfoParams:
         # Title: "PaperMod lalaa"
         Content: >
-            Every now and then, I publish posts on Technology, Leadership, Open Source, and Data.
+            [WIP] - 
+            Some of my toughts on Technology, Leadership, Open Source, and Data.
 
 taxonomies:
     category: categories
