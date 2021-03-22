@@ -2,6 +2,7 @@
 title: "My First Post"
 date: 2021-03-06T22:22:23-05:00
 draft: false
+categories: [ "Work In Progress" ]
 cover:
     image: "/bad-luck.jpg"
     alt: "Bad Luck"
