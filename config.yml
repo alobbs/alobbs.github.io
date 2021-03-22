@@ -54,12 +54,11 @@ params:
     description: "Alvaro Lopez Ortega - Site"
     author: Alvaro Lopez Ortega
 
-    # defaultTheme: light
-    # defaultTheme: dark
     defaultTheme: auto # to switch between dark or light according to browser theme
     ShowShareButtons: true
     ShowReadingTime: true
     ShowBreadCrumbs: true
+    ShowPostNavLinks: true
     socialIcons:
         - name: LinkedIn
           url: "https://www.linkedin.com/in/alobbs/"
