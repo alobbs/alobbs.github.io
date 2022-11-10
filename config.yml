@@ -64,6 +64,8 @@ params:
           url: "https://www.linkedin.com/in/alobbs/"
         - name: github
           url: "https://github.com/alobbs"
+        - name: Mastodon
+          url: "https://mastodon.social/@alobbs"
         - name: email
           url: "mailto:alvaro@alobbs.com"
         - name: RSS
