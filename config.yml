@@ -1,7 +1,7 @@
 baseURL: https://alobbs.com/
 languageCode: en-us
 title: Alvaro's Site
-theme: "PaperMod"
+theme: ["PaperMod"]
 paginate: 5
 
 enableInlineShortcodes: true
