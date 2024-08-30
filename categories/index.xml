@@ -4,26 +4,23 @@
     <title>Categories on Alvaro&#39;s Site</title>
     <link>https://alobbs.com/categories/</link>
     <description>Recent content in Categories on Alvaro&#39;s Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 07 Mar 2021 11:03:17 -0500</lastBuildDate><atom:link href="https://alobbs.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 07 Mar 2021 11:03:17 -0500</lastBuildDate>
+    <atom:link href="https://alobbs.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Also Unfinished</title>
       <link>https://alobbs.com/categories/also-unfinished/</link>
       <pubDate>Sun, 07 Mar 2021 11:03:17 -0500</pubDate>
-      
       <guid>https://alobbs.com/categories/also-unfinished/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Work In Progress</title>
+      <title>Work in Progress</title>
       <link>https://alobbs.com/categories/work-in-progress/</link>
       <pubDate>Sat, 06 Mar 2021 22:22:23 -0500</pubDate>
-      
       <guid>https://alobbs.com/categories/work-in-progress/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
