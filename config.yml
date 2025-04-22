@@ -2,7 +2,7 @@ baseURL: https://alobbs.com/
 languageCode: en-us
 title: Alvaro's Site
 theme: ["PaperMod"]
-paginate: 5
+pagination.pagerSize: 5
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -49,6 +49,21 @@ outputs:
         - RSS
         - JSON
 
+markup:
+  goldmark:
+    extensions:
+      passthrough:
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - \(
+            - \)
+        enable: true
+
 params:
     env: production  # to enable google analytics, opengraph, twitter-cards and schema.
     description: "Alvaro Lopez Ortega - Site"
@@ -77,6 +92,8 @@ params:
             [WIP] - 
             Some of my toughts on Technology, Leadership, Open Source, and Data.
 
+    math: true
+
 taxonomies:
     category: categories
     tag: tags
@@ -87,15 +104,13 @@ privacy:
         disabled: false
         simple: true
 
-    twitter:
-        disabled: false
-        enableDNT: true
-        simple: true
+    x:
+        disabled: true
 
     youtube:
         disabled: false
         privacyEnhanced: true
 
 services:
-    twitter:
+    x:
         disableInlineCSS: true
