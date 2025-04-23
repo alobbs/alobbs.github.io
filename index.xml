@@ -6,22 +6,15 @@
     <description>Recent content on Alvaro&#39;s Site</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Apr 2025 15:41:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Apr 2025 16:00:52 +0000</lastBuildDate>
     <atom:link href="https://alobbs.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2025-04-23 Briefing</title>
       <link>https://alobbs.com/posts/2025-04-23/</link>
-      <pubDate>Wed, 23 Apr 2025 15:41:42 +0000</pubDate>
+      <pubDate>Wed, 23 Apr 2025 16:00:52 +0000</pubDate>
       <guid>https://alobbs.com/posts/2025-04-23/</guid>
       <description>&lt;h2 id=&#34;-internet-infrastructure&#34;&gt;▶️ Internet Infrastructure&lt;/h2&gt;
 &lt;h3 id=&#34;atuin-desktop-runbooks-that-run&#34;&gt;&lt;a href=&#34;https://blog.atuin.sh/atuin-desktop-runbooks-that-run/&#34;&gt;Atuin Desktop: Runbooks that Run&lt;/a&gt;&lt;/h3&gt;
-&lt;h3 id=&#34;key-facts&#34;&gt;Key Facts&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Atuin Desktop is a local-first, executable runbook editor designed to streamline terminal workflows, integrating script blocks, embedded terminals, database clients, and Prometheus charts.&lt;/li&gt;
-&lt;li&gt;Features include chaining shell commands, executing and maintaining relevant documentation, reusable automation with Jinja-style templating, autocomplete from shell history, and synchronization via Atuin Hub.&lt;/li&gt;
-&lt;li&gt;Currently used for releasing Atuin CLI, migrating infrastructure, deploying environments, and managing live database queries; upcoming features include team accounts and auto-generated runbooks from shell history.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
 &lt;p&gt;Atuin Desktop, launched on April 22, 2025, is a local-first runbook editor that combines terminal-like execution with document-like organization, enabling repeatable, shareable workflows. It supports chaining commands, executing embedded scripts, and dynamic templating, with real-time autocomplete from shell history. The platform syncs across devices via Atuin Hub and is used for deploying CLI tools, infrastructure migration, environment setup, and database management. Future updates include team collaboration and automated runbook generation from shell history.&lt;/p&gt;</description>
     </item>
     <item>
