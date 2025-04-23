@@ -6,24 +6,23 @@
     <description>Recent content in Posts on Alvaro&#39;s Site</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Apr 2025 21:51:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 22:33:05 +0000</lastBuildDate>
     <atom:link href="https://alobbs.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2025-04-22 Briefing</title>
       <link>https://alobbs.com/posts/2025-04-22/</link>
-      <pubDate>Tue, 22 Apr 2025 21:51:27 +0000</pubDate>
+      <pubDate>Tue, 22 Apr 2025 22:33:05 +0000</pubDate>
       <guid>https://alobbs.com/posts/2025-04-22/</guid>
       <description>&lt;h2 id=&#34;-internet-infrastructure&#34;&gt;▶️ Internet Infrastructure&lt;/h2&gt;
 &lt;h3 id=&#34;arch-linux---news-valkey-to-replace-redis-in-the-&#34;&gt;&lt;a href=&#34;https://archlinux.org/news/valkey-to-replace-redis-in-the-extra-repository/&#34;&gt;Arch Linux - News: Valkey to replace Redis in the [extra] Repository&lt;/a&gt;&lt;/h3&gt;
 &lt;h3 id=&#34;key-facts&#34;&gt;Key Facts&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Valkey will replace Redis in the Arch Linux [extra] repository.&lt;/li&gt;
-&lt;li&gt;The change is due to Redis licensing modifications on March 20th, 2024.&lt;/li&gt;
-&lt;li&gt;Arch Linux Package Maintainers will support the redis package for 14 days from April 17th, 2025, before moving it to the AUR.&lt;/li&gt;
-&lt;li&gt;After the 14-day transition, the redis package will not receive further updates.&lt;/li&gt;
+&lt;li&gt;Valkey, a high-performance key/value datastore, will replace Redis in the &lt;a href=&#34;https://archlinux.org/packages/extra/&#34;&gt;extra&lt;/a&gt; repository&lt;/li&gt;
+&lt;li&gt;The change follows Redis&amp;rsquo;s license modification from BSD-3-Clause to RSALv2 and SSPLv1 on March 20, 2024&lt;/li&gt;
+&lt;li&gt;Arch Linux package maintainers will support the redis package for approximately 14 days from April 17, 2025, after which it will be moved to the AUR and no longer receive updates&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
-&lt;p&gt;Arch Linux is transitioning from Redis to Valkey as its key/value datastore in the [extra] repository. This change is a result of Redis altering its license from BSD-3-Clause to RSALv2 and SSPLv1 on March 20th, 2024.&lt;/p&gt;</description>
+&lt;p&gt;Arch Linux announced that &lt;a href=&#34;https://github.com/valkey&#34;&gt;Valkey&lt;/a&gt;, a high-performance key/value datastore, will replace Redis in the &lt;a href=&#34;https://archlinux.org/packages/extra/&#34;&gt;extra&lt;/a&gt; repository due to Redis changing its license to RSALv2 and SSPLv1 on March 20, 2024. The redis package will be supported for about 14 days from April 17, 2025, allowing users to transition smoothly to Valkey; after this period, the redis package will be moved to the AUR and considered deprecated with no further updates. Users are advised to begin migrating their Redis usage promptly to avoid issues post-transition.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Investment Strategies: Intro to Building Wealth with Precision</title>
