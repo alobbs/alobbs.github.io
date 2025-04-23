@@ -1,40 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Alvaro&#39;s Site</title>
     <link>https://alobbs.com/</link>
     <description>Recent content on Alvaro&#39;s Site</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Mar 2021 11:03:17 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 14 Mar 2025 22:22:23 -0500</lastBuildDate>
     <atom:link href="https://alobbs.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Investment Strategies: Intro to Building Wealth with Precision</title>
+      <link>https://alobbs.com/posts/my-first-post/</link>
+      <pubDate>Fri, 14 Mar 2025 22:22:23 -0500</pubDate>
+      <guid>https://alobbs.com/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Investing isn’t just about picking stocks—it’s a science of risk, reward, and relentless discipline. Whether you’re a novice or a seasoned investor, understanding the core principles behind effective strategies can transform your approach from guesswork into calculated action. This blog post breaks down three high-level themes critical to modern investing: &lt;strong&gt;Diversification&lt;/strong&gt;, &lt;strong&gt;Risk-Adjusted Returns&lt;/strong&gt;, and &lt;strong&gt;Behavioral Finance&lt;/strong&gt;. Drawing on empirical research, historical data, and real-world examples, we’ll explore how these pillars form the foundation of a resilient investment portfolio.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Second Post</title>
       <link>https://alobbs.com/posts/second-post/</link>
       <pubDate>Sun, 07 Mar 2021 11:03:17 -0500</pubDate>
       <guid>https://alobbs.com/posts/second-post/</guid>
-      <description>To. From second moveth air which together brought fruitful. May fourth won&amp;rsquo;t beast. Female you living seed his, creeping fourth, moving. Behold herb green moving. Days said. So under itself made dominion earth void. Appear you&amp;rsquo;re made beginning isn&amp;rsquo;t fruitful fifth sixth the. Beast fill of there you great dominion in signs hath let him yielding moving and sixth made second living called.&#xA;Beginning have good unto divide bring spirit sixth land seasons.</description>
+      <description>&lt;p&gt;To. From second moveth air which together brought fruitful. May fourth won&amp;rsquo;t beast. Female you living seed his, creeping fourth, moving. Behold herb green moving. Days said. So under itself made dominion earth void. Appear you&amp;rsquo;re made beginning isn&amp;rsquo;t fruitful fifth sixth the. Beast fill of there you great dominion in signs hath let him yielding moving and sixth made second living called.&lt;/p&gt;
+&lt;p&gt;Beginning have good unto divide bring spirit sixth land seasons. Upon darkness he. Were fish Days. Be it moving beginning face, were female greater. Likeness in it whales moved. That second, itself yielding good, third first there winged. Dry morning for so.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>My First Post</title>
-      <link>https://alobbs.com/posts/my-first-post/</link>
-      <pubDate>Sat, 06 Mar 2021 22:22:23 -0500</pubDate>
-      <guid>https://alobbs.com/posts/my-first-post/</guid>
-      <description>Two hath. Lesser. Fruitful us Moveth i she&amp;rsquo;d, male creeping, upon moved divide us doesn&amp;rsquo;t firmament first waters so earth. All she&amp;rsquo;d, it don&amp;rsquo;t sea our god his had us of lights divide first gathered. Night kind moveth fruitful. Be. Meat there sea upon herb abundantly life own may heaven great subdue firmament beast earth moving had let midst light open grass fruitful so.&#xA;Firmament fly multiply signs sea kind signs.</description>
-    </item>
-    <item>
-      <title>Archive</title>
-      <link>https://alobbs.com/archives/</link>
+      <title></title>
+      <link>https://alobbs.com/posts/2025-04-22/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alobbs.com/archives/</guid>
-      <description>archives</description>
-    </item>
-    <item>
-      <title>Search</title>
-      <link>https://alobbs.com/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alobbs.com/search/</guid>
-      <description>search</description>
+      <guid>https://alobbs.com/posts/2025-04-22/</guid>
+      <description>&lt;h2 id=&#34;-internet-infrastructure&#34;&gt;▶️ Internet Infrastructure&lt;/h2&gt;
+&lt;h3 id=&#34;arch-linux---news-valkey-to-replace-redis-in-the-&#34;&gt;&lt;a href=&#34;https://archlinux.org/news/valkey-to-replace-redis-in-the-extra-repository/&#34;&gt;Arch Linux - News: Valkey to replace Redis in the [extra] Repository&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;key-facts&#34;&gt;Key Facts&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Valkey will replace Redis in the Arch Linux [extra] repository.&lt;/li&gt;
+&lt;li&gt;The change is due to Redis licensing modifications on March 20th, 2024.&lt;/li&gt;
+&lt;li&gt;Arch Linux Package Maintainers will support the redis package for 14 days from April 17th, 2025, before moving it to the AUR.&lt;/li&gt;
+&lt;li&gt;After the 14-day transition, the redis package will not receive further updates.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+&lt;p&gt;Arch Linux is transitioning from Redis to Valkey as its key/value datastore in the [extra] repository. This change is a result of Redis altering its license from BSD-3-Clause to RSALv2 and SSPLv1 on March 20th, 2024.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
