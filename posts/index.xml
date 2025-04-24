@@ -6,8 +6,25 @@
     <description>Recent content in Posts on Alvaro&#39;s Site</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Apr 2025 16:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Apr 2025 12:29:57 +0000</lastBuildDate>
     <atom:link href="https://alobbs.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025-04-24 Briefing</title>
+      <link>https://alobbs.com/posts/2025-04-24/</link>
+      <pubDate>Thu, 24 Apr 2025 12:29:57 +0000</pubDate>
+      <guid>https://alobbs.com/posts/2025-04-24/</guid>
+      <description>&lt;h2 id=&#34;-internet-infrastructure&#34;&gt;▶️ Internet Infrastructure&lt;/h2&gt;
+&lt;h3 id=&#34;government-censorship-comes-to-bluesky-but-not-its-third-party-apps&#34;&gt;&lt;a href=&#34;https://techcrunch.com/2025/04/23/government-censorship-comes-to-bluesky-but-not-its-third-party-apps-yet/&#34;&gt;Government censorship comes to Bluesky, but not its third-party apps &amp;hellip; yet | TechCrunch&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Bluesky has implemented government-mandated censorship in Turkey via geographic labelers, restricting 72 accounts, while third-party apps can bypass these blocks due to lack of enforced regional moderation.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bluesky restricted access to 72 accounts in Turkey at the Turkish government&amp;rsquo;s request, citing national security and public order concerns.&lt;/li&gt;
+&lt;li&gt;59 accounts were blocked, 13 accounts and at least one post made invisible; accounts remain on Bluesky infrastructure.&lt;/li&gt;
+&lt;li&gt;Official Bluesky app users cannot opt out of geographic moderation, but third-party apps like Skeets, Ouranos, Deer.social, and Skywalker can bypass these restrictions by not implementing geographic labelers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;does-using-rust-really-make-your-software-safer---blog---tweede-golf&#34;&gt;&lt;a href=&#34;https://tweedegolf.nl/en/blog/152/does-using-rust-really-make-your-software-safer&#34;&gt;Does using Rust really make your software safer? - Blog - Tweede golf&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Using Rust for DNS parsing code prevents memory safety vulnerabilities, as demonstrated by empirical tests showing Rust&amp;rsquo;s robustness against exploits, reducing development time and costs.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>2025-04-23 Briefing</title>
       <link>https://alobbs.com/posts/2025-04-23/</link>
