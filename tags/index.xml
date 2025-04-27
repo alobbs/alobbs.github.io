@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Tags on Alvaro&#39;s Site</title>
-    <link>https://alobbs.com/tags/</link>
-    <description>Recent content in Tags on Alvaro&#39;s Site</description>
-    <generator>Hugo -- 0.147.0</generator>
-    <language>en</language>
-    <atom:link href="https://alobbs.com/tags/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on alobbs.com</title><link>https://alobbs.com.com/tags/</link><description>Recent content in Tags on alobbs.com</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://alobbs.com.com/tags/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
