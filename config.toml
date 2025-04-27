@@ -1,0 +1,32 @@
+baseURL = "https://alobbs.com.com/"
+languageCode = "en-us"
+title = "alobbs.com"
+theme = "github-style"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  author = "Alvaro Lopez Ortega"
+  description = "📌 Director of Eng at Pinterest & Tech Board Member at Inditex — 🚀 Former eBay, Docker, Meta, Akamai, Red Hat, Canonical, Sun — 🧠 Infrastructure at Scale, Open Source"
+  github = "alobbs"
+  linkedin = "alobbs"
+  bluesky = "alobbs.com"
+  # email = "alobbs@gmail.com"
+  url = "https://alobbs.com"
+  keywords = "blog, google analytics"
+  rss = true
+  lastmod = true
+  favicon = "/images/github-mark.png"
+  avatar = "/images/avatar.png"
+  headerIcon = "/images/github-mark-white.png"
+  location = "United States"
+  userStatusEmoji = "🏡"
+  enableGitalk = false
+  enableSearch = true
+
+  [[params.links]]
+    title = "Signal"
+    href = "https://signal.me/#eu/PN6so6Yj1zF8-ZRXu-g7elbpyQKnjykenToMnwnW0qDsuT1sm35Gt4e4tyupw2-N"
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
