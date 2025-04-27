@@ -1,4 +1,4 @@
-baseURL = "https://alobbs.com.com/"
+baseURL = "https://alobbs.com/"
 languageCode = "en-us"
 title = "alobbs.com"
 theme = "github-style"
