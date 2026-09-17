@@ -5,6 +5,17 @@
 <meta name="robots" content="noodp" />
 <link rel="canonical" href="{{ .Permalink }}" />
 
+{{/* Mastodon profile verification. This lived in layouts/partials/
+     extend_footer.html, added 2022-11-10, but only PaperMod ever called that
+     partial: the site moved to github-style, whose footer does not, so the
+     tag stopped being rendered and the checkmark on the profile went stale
+     (a re-save of the field would have dropped it). A <link> here cannot be
+     orphaned the same way, because this override is the project's, not the
+     theme's, and it is the form Mastodon documents: VerifyLinkService
+     accepts //a or //link with rel~=me and compares href to the profile URL
+     exactly, so the missing trailing slash is deliberate. */}}
+<link rel="me" href="https://mastodon.social/@alobbs" />
+
 {{/* Link-preview metadata. The theme resolved every post's og:image to
      `{{ .Params.Cover | absURL }}`, and with no cover set `absURL` returns the
      site root, so all posts advertised https://alobbs.com/ as their preview
